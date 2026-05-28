@@ -1,14 +1,14 @@
 /* Add CSS Styling */
-.both {
+.black-white, .yellow {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-#first {
+.black-white {
     background-color: black;
     color: white;
 }
 
-#second {
+.yellow {
     background-color: yellow;
 }
